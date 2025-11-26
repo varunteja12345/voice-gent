@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DarkNet Uplink",
+  "description": "An aggressive, terminal-styled voice interface for the underground. Powered by Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
